@@ -27,6 +27,7 @@ getResultados(argv.b, argv.l,argv.h)
 //npm install paquete --save-dev  se crea una dependencia de desarrollo
 //npm update
 //npm install paquete@version (1.0.0) etc..
+//npm install tambien sirve para instalar los modulos de node de 0
 
 //configuracion de yargs independiente
 
