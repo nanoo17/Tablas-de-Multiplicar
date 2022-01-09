@@ -29,3 +29,10 @@ getResultados(argv.b, argv.l,argv.h)
 //npm install paquete@version (1.0.0) etc..
 
 //configuracion de yargs independiente
+
+
+
+//git init = inicia el proyecto en git
+//git add . =prepara los archivos
+//git commit -m "mensaje" commitea los archivos
+//git checkout -- . = checkea si los archivos están igual que el ultimo commit
