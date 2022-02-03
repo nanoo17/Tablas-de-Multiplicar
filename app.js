@@ -22,18 +22,20 @@ getResultados(argv.b, argv.l,argv.h)
 
 
 //todo desde consola
-//npm init
+//npm init inicia el json pero tenes que indicarle las cosas para hacer
 //npm uninstall 
 //npm install paquete --save-dev  se crea una dependencia de desarrollo
 //npm update
 //npm install paquete@version (1.0.0) etc..
 //npm install tambien sirve para instalar los modulos de node de 0
+//npm init -y inicia el package.json en blanco
+
 
 //configuracion de yargs independiente
 
 
 
 //git init = inicia el proyecto en git
-//git add . =prepara los archivos
+//git add . =prepara los archivos locales
 //git commit -m "mensaje" commitea los archivos
 //git checkout -- . = checkea si los archivos están igual que el ultimo commit
